@@ -1,4 +1,4 @@
-UnrealUpdater
+Unreal Manifest
 =============
 
 UnrealManifest is a manifest file generator for [Unreal Updater](https://github.com/arbonagw/UnrealUpdater). Compile this program and run it inside your project's directory, it will generate a manifest file for Unreal Updater.
