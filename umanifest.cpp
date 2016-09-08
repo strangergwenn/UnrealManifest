@@ -45,6 +45,8 @@ UManifest::UManifest(QWidget *parent) :
 
     delete dom;
     delete file;
+
+    exit(0);
 }
 
 UManifest::~UManifest()
